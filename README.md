@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="img\DC_Comics_logo (1).svg" alt="Logo" width="80" height="80">
+    <img src="img\DC_Comics_logo (1).svg" alt="Logo" width="150" height="150">
   </a>
 
 ### DC Characters Bio Build 
